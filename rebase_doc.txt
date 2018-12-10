@@ -1,4 +1,4 @@
 first commit
 second commit
 third commit
-after rebase
+in branch after rebase
